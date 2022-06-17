@@ -20,8 +20,8 @@ jupyter notebook
 
 ## Samples 
 
-Correlation Matrix-->Heapmap<br>
+<b>Correlation Matrix</b><br>
 <img src="https://github.com/SwatiRSahu/heart-disease/blob/main/sample/heatmap.png" width="480"/>
-Graphical Representation of datset<br>
+<br><br><b>Graphical Representation of datset</b><br>
 <img src="https://github.com/SwatiRSahu/heart-disease/blob/main/sample/data1.png" width="480"/>
 <img src="https://github.com/SwatiRSahu/heart-disease/blob/main/sample/data2.png" width="480"/>
