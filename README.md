@@ -1,6 +1,6 @@
 # Heart Disease prediction using Machine Learning
 
-Preventing heart disease is important. Good data-driven systems for predicting heart disease can improve the entire research and prevention process, making sure that more people can live healthy lives. Here i have worked on few sample dat ...
+Preventing heart disease is important. Good data-driven systems for predicting heart disease can improve the entire research and prevention process, making sure that more people can live healthy lives. Here I have worked on few sample data ...
 
 ## Installation
 
